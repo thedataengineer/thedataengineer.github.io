@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meghna</title>
+    <title>Karteek Yadavilli</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Meghna</description>
+    <description>Recent content on Karteek Yadavilli</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Form</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&lt;iframe src=&#34;https://forms.gle/ijtoXbA47RGXxwbo9&#34; &#xA;width=&#34;100%&#34; height=&#34;800&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;</description>
+    </item>
     <item>
       <title>Are You Doing the Right Way</title>
       <link>http://localhost:1313/blog/simple-blog-post-8/</link>
